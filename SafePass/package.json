@@ -1,0 +1,14 @@
+{
+  "name": "safepass",
+  "version": "1.0.0",
+  "description": "SafePass is a small desktop password manager created for a software engineering and project management assignment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
